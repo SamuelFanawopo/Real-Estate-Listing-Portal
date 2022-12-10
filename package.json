@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "name": "real-estate-listing-portal",
+  "version": "1.0.0",
+  "description": "Real estate listing portal landing page using HTML, Tailwind CSS and Javascript",
+  "main": "tailwind.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwind build -i src/styles.css -o public/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysfsam/Real-Estate-Listing-Portal.git"
+  },
+  "author": "Samuel Fanawopo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysfsam/Real-Estate-Listing-Portal/issues"
+  },
+  "homepage": "https://github.com/ysfsam/Real-Estate-Listing-Portal#readme"
+}
